@@ -17,7 +17,7 @@ to do so.
 ```sh
 git clone https://github.com/daehahn/ubuntu-wsl2-tomcat9-setup.git
 cd ubuntu-wsl2-tomcat9-setup/
-bash tomcat9-setup.sh
+bash tomcat9_setup.sh
 # Enter your password and wait until the script has finished
 ```
 ### Then follow from Step 7 of the tutorial 
