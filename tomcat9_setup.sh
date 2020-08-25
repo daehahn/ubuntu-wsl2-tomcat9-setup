@@ -33,5 +33,5 @@ sudo systemctl status tomcat9
 # Step 6 — Adjust the Firewall and Test the Tomcat Server
 sudo ufw allow 8080
 cmd.exe /C start http://localhost:8080
-sudo systemctl enable tomcat
+sudo systemctl enable tomcat9
 
